@@ -9,7 +9,7 @@ import MedicineDetails from "./pages/MedicineDetails";
 import AddMedicine from "./pages/AddMedicine";
 import EditMedicine from "./pages/EditMedicine";
 import Cart from "./pages/Cart";
-import Orders from "./pages/orders";
+import Orders from "./pages/Orders";
 import Customers from "./pages/Customers";
 
 import Register from "./pages/Register";
